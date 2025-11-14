@@ -1,0 +1,8 @@
+
+langchain>=1.0.0
+chromadb>=0.3.29
+sentence-transformers>=2.2.2
+transformers>=4.35.2
+torch>=2.1.2
+numpy
+tqdm
